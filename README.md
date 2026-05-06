@@ -1,5 +1,4 @@
-# aws-hands-on-learning
-Practical AWS hands-on learning, troubleshooting, cloud architecture, and DevOps preparation with real-world scenarios.
+
 # AWS Hands-On Learning
 
 This repository contains my practical AWS learning journey with hands-on implementations, troubleshooting scenarios, architecture understanding, and real-world cloud practice.
