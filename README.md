@@ -1,79 +1,34 @@
+# AWS + Linux Hands-On Learning
 
-# AWS Hands-On Learning
+This repository contains my practical hands-on learning journey for Linux, AWS Cloud, and DevOps fundamentals.
 
-This repository contains my practical AWS learning journey with hands-on implementations, troubleshooting scenarios, architecture understanding, and real-world cloud practice.
+## Topics Covered
 
-Focus Areas:
-- EC2
+### Linux
+- Navigation & file operations
+- Permissions & ownership
+- Process management
+- Service management
+- Networking basics
+- Logs & troubleshooting
+- Bash scripting basics
+
+### AWS
 - IAM
-- VPC
-- S3
-- RDS
-- CloudWatch
+- EC2
 - Security Groups
-- Linux on AWS
-- Troubleshooting
+- S3
+- CloudWatch basics
+- High availability concepts
+- Basic cloud architecture
 
-Goal:
-Learn → Build → Break → Fix → Document
+## Hands-On Practice
+- EC2 instance setup
+- SSH troubleshooting
+- nginx installation
+- Log monitoring
+- Service troubleshooting
+- Security group configuration
 
----
-
-# Topics Covered
-
-## EC2
-- Launching Ubuntu EC2
-- SSH Connectivity
-- Nginx Setup
-- Security Group Configuration
-- Troubleshooting Access Issues
-
-## IAM
-- IAM Users
-- IAM Roles
-- Policies
-- Permission Testing
-- Access Denied Debugging
-
-## VPC
-- Public vs Private Subnets
-- Route Tables
-- Internet Gateway
-- NAT Gateway
-- Security Groups vs NACL
-
-## S3
-- Bucket Creation
-- Permissions
-- Static Website Hosting
-
-## RDS
-- Database Setup
-- Connectivity Testing
-- Security Configuration
-
-## CloudWatch
-- Monitoring
-- Metrics
-- Alarms
-- Logs
-
----
-
-# Practical Learning Approach
-
-For every topic:
-1. Learn concept
-2. Implement practically
-3. Break configuration intentionally
-4. Troubleshoot issue
-5. Fix and document
-
----
-
-# Future Plans
-- Terraform Infrastructure Automation
-- Docker
-- CI/CD
-- Kubernetes
-- Monitoring Stack
+## Goal
+Building strong practical foundations for Cloud Engineer / DevOps Engineer roles through hands-on learning and troubleshooting.
