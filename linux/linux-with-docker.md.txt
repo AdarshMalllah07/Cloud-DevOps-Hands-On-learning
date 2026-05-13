@@ -1,0 +1,9 @@
+# Linux Hands-n With Docker Hands 
+
+1.Pull a image for ubuntu-latest on docker
+
+   docker pull ubuntu-latest
+
+2.run ubuntu-latest for containers 
+
+   docker run -it ubuntu-Linux
