@@ -1,0 +1,85 @@
+# AWS Learning Journey — Core Concepts & Fundamentals
+
+## Overview
+
+Today I focused on understanding the core fundamentals of AWS and cloud computing concepts. Instead of only learning services individually, I studied how AWS infrastructure, networking, security, monitoring, storage, and cloud architecture work together in real-world environments.
+
+---
+
+## Topics Studied
+
+### AWS Basics
+- What is AWS
+- Cloud Computing Fundamentals
+- AWS Global Infrastructure
+- Regions, Availability Zones, and Edge Locations
+- AWS Pricing & Free Tier
+
+### Core AWS Services
+- EC2 (Elastic Compute Cloud)
+- S3 (Simple Storage Service)
+- IAM (Identity & Access Management)
+- VPC (Virtual Private Cloud)
+- CloudWatch Monitoring
+
+### Compute & Storage
+- EC2 Instance Concepts
+- AMIs & Security Groups
+- EBS Volumes
+- Auto Scaling Basics
+- Elastic Load Balancer
+
+### Networking Fundamentals
+- VPC Architecture
+- Public & Private Subnets
+- Route Tables
+- Internet Gateway & NAT
+- Security Groups vs NACL
+
+### Security & IAM
+- IAM Users, Groups, and Roles
+- Policies & Permissions
+- MFA & Access Keys
+- AWS Security Best Practices
+
+### Monitoring & Management
+- CloudWatch Metrics & Logs
+- CloudTrail Basics
+- Infrastructure Monitoring Concepts
+- Logging & Alerting Workflows
+
+### DevOps & Automation Concepts
+- AWS CLI Basics
+- Infrastructure as Code (CloudFormation)
+- Automation & Monitoring Workflows
+- CI/CD Concepts in AWS
+
+---
+
+## Key Concepts Understood
+
+- Difference between On-Premise and Cloud Infrastructure
+- How AWS manages scalable infrastructure globally
+- How EC2 works as virtual cloud servers
+- Importance of IAM and security permissions
+- How VPC isolates cloud networks securely
+- Difference between Security Groups and NACL
+- Monitoring and alerting using CloudWatch
+- Role of automation in Cloud & DevOps environments
+
+---
+
+## Practical Understanding Gained
+
+- Basic understanding of cloud infrastructure architecture
+- AWS service relationships and workflows
+- Infrastructure security fundamentals
+- Networking and access control concepts
+- Monitoring and troubleshooting workflows
+- Cloud scalability and high availability concepts
+
+---
+
+## Learning Goal
+
+Building strong cloud infrastructure, Linux, networking, monitoring, and DevOps fundamentals through practical hands-on learning and real-world cloud architecture understanding.
